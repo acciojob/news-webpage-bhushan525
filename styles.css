@@ -11,3 +11,21 @@ body{
 .pictorial-news-section{
 	text-align:center;
 }
+img{
+	gap:10px;
+	width:100px;
+}
+div{
+	background-color:white;
+	padding:10px;
+}
+.a{
+	display:flex;
+	flex-direction:column;
+	border-radius:3px;
+}
+.b{
+	display:flex;
+	flex-direction:column;
+}
+    
