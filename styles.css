@@ -15,17 +15,12 @@ img{
 	gap:10px;
 	width:100px;
 }
-div{
+
+.latest-news-section{
+	width:220px;
 	background-color:white;
 	padding:10px;
+	border-radius:20px;
 }
-.a{
-	display:flex;
-	flex-direction:column;
-	border-radius:3px;
-}
-.b{
-	display:flex;
-	flex-direction:column;
-}
+
     
